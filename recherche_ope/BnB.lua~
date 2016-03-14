@@ -1,0 +1,112 @@
+--lire un fichier pour extraire une liste de poids et valeurs
+value={1,2,3,4,5}
+weight={6,7,8,9,10}
+ratio={}
+W=24
+--nb d'elts au total (i.e. taille de value, et de weight)
+N=5
+
+--ordonner les objets par ratio decroissant, il faut utiliser une matrice pour se souvenir de l'indice associe a un ratio
+local function fill_ratios()
+	for i=1,N do
+		ratio[i]={}
+		ratio[i][1]=i
+		ratio[i][2]=value[i]/weight[i]
+	end
+	table.sort(ratio,function(a,b) return a[2]>b[2] end)
+end
+
+--determiner une borne superieure de la valeur du sac
+local function upper_thresh_value()
+	local w=0
+	local i=1
+	local v=0
+	while w<=W and i<=N do
+		w=w+weight[ratio[i][1]]
+		v=v+value[ratio[i][1]]
+		i=i+1
+	end
+	if w>W then
+		--on retourne un cran an arriere car on veut modifier le resultat de la derniere iteration
+		i=i-1
+		--diff est l'excedent de poids que l'on veut enlever
+		local diff=w-W
+		--frac est le pourcentage du poids du dernier elt a enlever de la valeur du sac
+		local frac=diff/weight[ratio[i][1]]
+		v=v-(frac*value[ratio[i][1]])
+		w=w-(frac*weight[ratio[i][1]])
+	end
+	return v
+end
+
+--calcul de la valeur de l'ensemble des objets contenus dnas le sac (materialise par un tableau de bool)
+local function sum_values(in_bag)
+	local v
+	for i=1,N do
+		if(in_bag[i]) then
+			v = v+value[i]
+		end
+	end
+	return v
+end
+--verifie si les objets contenus dans le sac (represente par un tableau de bool) ne depasse pas le poids limite
+local function check_weight(in_bag)
+	local w=0
+	local i=1
+	while i<=N and w<=W do
+		if(in_bag[i]) then
+			w = w+weight[i]
+			i = i+1
+		end
+	end
+	if w>W then return false
+	else return w end
+end
+
+--calcul de tous les sous-ensembles possibles pour trouver le remplissage optimal
+local function fill_bag_exhaustive(in_bag, indice)
+	--on traite d'abord le cas terminal : est-ce que notre tableau in_bag represente un cas d'arret ?
+	local w=check_weight(in_bag)
+	local ret
+	
+	--si on a depasse la valeur de poids limite, pas bon, on retourne -1
+	if not w then 
+		ret=-1
+		
+	--si on est arrive pile au poids limite, on ne cherche pas plus loin et on retourne la valeur de notre sac
+	--si on est a la find de l'arbre (indice == nb d'objets dispos) idem
+	elseif w==W or indice==N then 
+		ret=sum_values(in_bag) 
+		
+	--enfin si on peut (probablement) encore rajouter des objets, on continue les appels recursifs
+	else
+		--creation de deux tableaux de presence, pour la branche droite et gauche
+		--dans un cas on rajoute l'elt numero "indice" a notre sac, dans l'autre non
+		local in_bag_1 = in_bag
+		local in_bag_2 = in_bag
+		in_bag_1[indice] = true
+		
+		--appels recursifs
+		local x=fill_bag_exhaustive(in_bag_1,indice+1)
+		local y=fill_bag_exhaustive(in_bag_2,indice+1)
+		ret=max(x,y)
+	end
+	
+	return ret
+end
+
+--test des fonctions
+fill_ratios()
+--[[for i=1,N do
+	print(ratio[i][1])
+	print(ratio[i][2])
+end]]--
+
+local thresh = upper_thresh_value()
+--print(thresh)
+
+local in_bag={}
+for i=1,N do
+	in_bag[i]=false
+end
+fill_bag_exhaustive(in_bag,0)

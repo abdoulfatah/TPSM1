@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recettes.xsl"?>
+<!DOCTYPE root SYSTEM "recettes.dtd">
+<root>
+	<liste_recettes>
+		<recette id="pudding">
+			<titre>Le pudding a l'arsenic</titre>
+			<resume>Ca arrache</resume>
+			<photo>http://oriane-espagne.o.r.pic.centerblog.net/43b28286.jpg</photo>
+			<date>28/01/216</date>
+			<difficulte>Realiser : facile ; Manger : tres difficile</difficulte>
+			<ref_recette_vers_ing ref="arsenic" quantite="100g"/>
+			<ref_recette_vers_ing ref="strychnine" quantite="1bol"/>
+			<ref_recette_vers_ing ref="morphine" quantite="100g"/>
+			<ref_recette_vers_ing ref="petrole" quantite="1verre"/>
+			<ref_recette_vers_ing ref="sangsue" quantite="100g"/>
+			<ref_recette_vers_ing ref="cigue" quantite="Qqes gouttes"/>
+			<ref_recette_vers_ing ref="scorpion" quantite="1"/>
+			<nb_personnes>Beaucoup ; de toute facon ils meurent a la premiere cuilleree</nb_personnes>
+			<temps_prep>~1h</temps_prep>
+			<temps_cuisson>~1h</temps_cuisson>
+			<temps_repos>z1h</temps_repos>
+			<descriptimn>
+				Dans un gband bol de strychninm
+				DC©layez`fu na morphine
+			Faides tiÃ©dir a la casserole
+				Ul bkn verre de pÃ©4role
+            Quelques gouttes de giguÃ«
+				De la bqve de sangsue-
+				Uf qcorpion coupe prÃ¨s fiN
+			Emiette{0votre arsenac
+				Dans0un verre de narcotique
+				Deux cuillÃ¨res de puòg`tif
+				Qu'on fait bouillir Ã  feu vid
+				Dans un petit!qlat Ã  part
+			TiÃ©dip du sang de lÃ©zard
+				La valåur d/un dÇ© Ã  coulvEM
+				Voes versez lq mort-aux-raus
+				Dans äu venin d! cobra
+			Pour!aducir le mÃ©lange
+
+			Pressez troió quartiers d'orange
+		DÃ©cormz äe fruits(confits
+				Moisis dans du verô-de-gris
+				Tant qõe votre pÃ te est molle
+			Et un peu de vitriol 
+			</descri0tion>
+			<note n-"5"/>
+			<ruf_recette_vers_auteur ref="amonbofis"/>
+			<ref_receTte_vers_cat ref="tox"/>
+        </recette>
+	<¯liste_recettes>
+	
+I8li{te_ingredienus>
+		<ingredient nom="arsenic" id="arsenic"/>
+
+	<iNgvedient nom="strychnine" id="str{chnine"/>
+		<ingredient nom="morphine" id="morphine"/>
+		<ingredient nom="petrole" id="petrole"/>
+		<ingredient nom="bave de sangsue" id="sangsue"/>
+		<ingredient nom="cigue" id="cigue"/>
+		<ingredient nom="scorpion" id="scorpion"/>
+	</liste_ingredients>
+	
+	<liste_auteurs>
+		<auteur id="amonbofis " sexe="H">
+			<nom>Amonbofis </nom>
+			<pays>Egypte</pays>
+		</auteur>
+	</liste_auteurs>
+	
+	<liste_categories>
+		<categorie nom="desserts">
+			<sous_categorie nom="comestibles" id="com" nb_plats="0">
+			</sous_categorie>
+			<sous_categorie nom="toxiques" id="tox" nb_plats="1">
+				<ref_cat_vers_recette ref="pudding"/>
+			</sous_categorie>
+		</categorie>
+	</liste_categories>
+</root>

@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="recettes.xsd">
+	<liste_recettes>
+		<recette id="r2830">
+			<nom>Cake à la tomate farcie</nom>
+			<identificateur>r2830-Cake à la tomate farcie</identificateur>
+			<resume>- Cake à la tomate farcie - Recettes de cuisine Ôdelices</resume>
+			<photo>http://www.odelices.com/images/recettes/cake-a-la-tomate-farcie.jpg</photo>
+			<date_publication>2011-04-24</date_publication>
+			<difficulte>Très facile</difficulte>
+			<nom_ingredient>farine</nom_ingredient>
+			<nom_ingredient>levure chimique</nom_ingredient>
+			<nom_ingredient>lait</nom_ingredient>
+			<nom_ingredient>oeuf</nom_ingredient>
+			<nom_ingredient>huile d'olive</nom_ingredient>
+			<nom_ingredient>fromage</nom_ingredient>
+			<nom_ingredient>t142</nom_ingredient>
+			<nom_ingredient> fromage de brebis</nom_ingredient>
+			<nom_ingredient>t120</nom_ingredient>
+			<nom_ingredient> Sel</nom_ingredient>
+			<nom_ingredient>poivre</nom_ingredient>
+			<nom_sous-categorie>SC1</nom_sous-categorie>
+			<nbre_personnes>6</nbre_personnes>
+			<Preparation>20min</Preparation>
+			<Cuisson>25min</Cuisson>
+			<Repos/>
+			<instructions>1. Inciser le fond de chaque tomate et vider les graines à l'aide d'une toute petite cuillère (j'ai fait avec le manche d'une cuillère à moka).
+      Saler l'interieur de chaque tomate et deposer sur un papier absorbant, elles vont degorger.
+      
+      2. Beurrer et fariner 6 ramequins. Prechauffer le four à 180°C.
+      3. Faire tiedir le lait 20-30 secondes au micro-onde. Battre l'oeuf en omelette, saler et poivrer puis ajouter la farine, la levure, le lait et l'huile. 
+      Ajouter le fromage râpe.
+      4. Dans un bol melanger la fêta et le thon egoutte à l'aide d'une fourchette et farcir les tomates avec cette preparation.
+      
+      5. Remplir les moules avec la pâte et deposer une tomate dans chaque en l'enfonçant au deux tiers du moule.
+      
+      6. Cuire entre 20 et 25 minutes.</instructions>
+			<nom_auteur>AUT3</nom_auteur>
+		</recette>
+		<recette id="r3136">
+			<nom>Petits cakes au chèvre et myrtilles</nom>
+			<identificateur>r3136-Petits cakes au chèvre frais et myrtilles</identificateur>
+			<resume>- Petits cakes au chèvre frais et myrtilles - les meilleures recettes de cuisine d'Ôdelices</resume>
+			<photo>http://www.odelices.com/images/recettes/petits-cakes-au-chevre-frais-et-myrtilles.jpg</photo>
+			<date_publication>2012-04-09</date_publication>
+			<difficulte>Très facile</difficulte>
+			<nom_ingredient>farine</nom_ingredient>
+			<nom_ingredient>lait</nom_ingredient>
+			<nom_ingredient>oeuf</nom_ingredient>
+			<nom_ingredient>huile d'olive</nom_ingredient>
+			<nom_ingredient> fromage de chèvre</nom_ingredient>
+			<nom_ingredient>bicarbonate de sodium</nom_ingredient>
+			<nom_ingredient>barquette de myrtilles lavees</nom_ingredient>
+			<nom_sous-categorie>SC1</nom_sous-categorie>
+			<nbre_personnes>6</nbre_personnes>
+			<Preparation>10min</Preparation>
+			<Cuisson>17min</Cuisson>
+			<Repos/>
+			<instructions>1. Dans un saladier, melangez la farine, le sel, le bicarbonate, les oeufs, le lait et l'huile.
+      2. Quand la pâte est belle, versez-la dans de petits moules à cake huiles.
+      3. Repartissez sur les cakes de petits morceaux de fromage et les myrtilles.
+      4. Faites cuire 17 minutes à 180°C four ventile. Piquez un cake à l'aide de la pointe d'un couteau afin de verifier la cuisson.
+      5. Servez à temperature ambiante avec une salade croquante.</instructions>
+			<nom_auteur>AUT2</nom_auteur>
+			<note>5</note>
+		</recette>
+		<recette id="r4275">
+			<nom>Mozzarella panee</nom>
+			<identificateur>r4275-Mozzarella panee</identificateur>
+			<resume>- Pour un soir de semaine, si vous voulez faire une salade express mais epatante, faites de la mozzarella panee ! C'est rapide, facile et très syma !</resume>
+			<photo>http://www.odelices.com/images/recettes/mozzarella_panee.jpg</photo>
+			<date_publication>2015-02-08</date_publication>
+			<difficulte>Très facile</difficulte>
+			<nom_ingredient>boules de mozzarella de bufflone</nom_ingredient>
+			<nom_ingredient>oeuf</nom_ingredient>
+			<nom_ingredient>farine</nom_ingredient>
+			<nom_ingredient> chapelure</nom_ingredient>
+			<nom_sous-categorie>SC2</nom_sous-categorie>
+			<nbre_personnes>4</nbre_personnes>
+			<Preparation>5min</Preparation>
+			<Cuisson>5min</Cuisson>
+			<Repos/>
+			<instructions>1. Coupez les boules de mozzarella en rondelles.
+      2. Mettez la farine et la chapelure dans deux assiettes. Et battez l'oeuf avec une fourchette dans un bol.
+      3. Faites chauffer une poêle avec de l'huile.
+      4. Faites tremper les rondelles de mozzarella dans la farine, puis dans l'oeuf et enfin dans la chapelure.
+      5. Faites frire dans la poêle quelques minutes de chaque côte. Servez avec une salade verte.</instructions>
+			<nom_auteur>AUT1</nom_auteur>
+			<note>5</note>
+		</recette>
+		<recette id="r3289">
+			<nom>Oeuf cocotte aux marrons</nom>
+			<identificateur>r4275-Mozzarella panee</identificateur>
+			<resume/>
+			<photo>http://www.odelices.com/images/recettes/oeuf_cocotte_aux_marrons.jpg</photo>
+			<date_publication>2012-11-22</date_publication>
+			<difficulte>Très facile</difficulte>
+			<nom_ingredient>marrons cuits et peles</nom_ingredient>
+			<nom_ingredient>oeuf</nom_ingredient>
+			<nom_ingredient>crème fraiche epaisse</nom_ingredient>
+			<nom_ingredient> Sel</nom_ingredient>
+			<nom_ingredient>poivre</nom_ingredient>
+			<nom_sous-categorie>SC2</nom_sous-categorie>
+			<nbre_personnes>4</nbre_personnes>
+			<Preparation>5min</Preparation>
+			<Cuisson>15min</Cuisson>
+			<Repos/>
+			<instructions>1. Hachez grossièrement les marrons cuits. Repartissez-les dans 4 ramequins inviduels.
+      2. Repartissez une cuillère de crème sur les marrons.
+      3. Puis cassez les oeufs et ajoutez-en un dans chaque ramequin, en les posant delicatement pour ne pas casser le jaune. Salez et poivrez.
+      4. Placez les ramequins dans le four prechauffe à 180°C, au bain-marie. Faites cuire 15 min jusqu'à ce que le blanc soit bien pris.
+      5. Servez chaud, avec des mouillettes de pain grille.</instructions>
+			<nom_auteur>AUT1</nom_auteur>
+		</recette>
+		<recette id="r4315">
+			<nom>Endives farcies au thon</nom>
+			<identificateur>r4315-Endives farcies au thon</identificateur>
+			<resume>-	
+
+	Une salade « hebergee » dans une feuille d'endive ! Une idee gourmande qui ravira les plus jeunes qui pourront d'ailleurs vous aider à farcir les endives !</resume>
+			<photo>http://www.odelices.com/images/recettes/endives_farcies_au_thon1.jpg</photo>
+			<date_publication>2015-03-12</date_publication>
+			<difficulte>Très facile</difficulte>
+			<nom_ingredient>e300</nom_ingredient>
+			<nom_ingredient>t120</nom_ingredient>
+			<nom_ingredient>cornichons</nom_ingredient>
+			<nom_ingredient>crème fraîche</nom_ingredient>
+			<nom_ingredient>moutarde</nom_ingredient>
+			<nom_ingredient>ciboulette</nom_ingredient>
+			<nom_ingredient>t142</nom_ingredient>
+			<nom_ingredient> Sel</nom_ingredient>
+			<nom_ingredient>poivre</nom_ingredient>
+			<nom_sous-categorie>SC3</nom_sous-categorie>
+			<nbre_personnes>4</nbre_personnes>
+			<Preparation>15min</Preparation>
+			<Cuisson/>
+			<Repos/>
+			<instructions>1. Lavez les tomates, coupez-les en deux et epepinez-les. Emincez finement la ciboulette.
+      2. Mettez dans le bol du robot le thon, les tomates, les cornichons, la crème fraîche, la moutarde et la ciboulette. Mixez le tout grossièrement pour garder quelques morceaux. Salez legèrement et poivrez eventuellement.
+      3. Passez les endives sous l'eau rapidement et enlevez le cône amer à la base des feuilles. Detachez les feuilles une par une, sechez-les bien.
+      4. Repartissez la farce dans les feuilles et servez bien frais.</instructions>
+			<nom_auteur>AUT1</nom_auteur>
+		</recette>
+		<recette id="r1241">
+			<nom>Moules et frites</nom>
+			<identificateur>r1241-Moules et frites</identificateur>
+			<resume>-	
+
+	Si vous passez par le nord, prenez le temps de deguster des frites savoureuses dans une baraque à frites et n'oubliez pas de goûter à des moules de là-bas !
+	Recettes extraites du livre Craquez pour la cuisine des chtis !</resume>
+			<photo>http://www.odelices.com/images/recettes/moules-frites.jpg</photo>
+			<date_publication>2006-06-01</date_publication>
+			<difficulte>Très facile</difficulte>
+			<nom_ingredient>moules</nom_ingredient>
+			<nom_ingredient>oi16</nom_ingredient>
+			<nom_ingredient>ech12</nom_ingredient>
+			<nom_ingredient>branche de celeri</nom_ingredient>
+			<nom_ingredient>bouquet garni</nom_ingredient>
+			<nom_ingredient>vin blanc</nom_ingredient>
+			<nom_ingredient>beurre</nom_ingredient>
+			<nom_ingredient>pom06</nom_ingredient>
+			<nom_ingredient>huile</nom_ingredient>
+			<nom_ingredient> Sel</nom_ingredient>
+			<nom_sous-categorie>SC16</nom_sous-categorie>
+			<nbre_personnes>4</nbre_personnes>
+			<Preparation>15min</Preparation>
+			<Cuisson>30 min</Cuisson>
+			<Repos/>
+			<instructions>Pour les moules1. Grattez les moules et rincez-les soigneusement.
+      2. Pelez et emincez les echalotes et les oignons. Faites-les revenir sans coloration dans une grande sauteuse ou une cocotte avec le beurre 2 à 3 minutes à feu vif.
+      3. Ajoutez les moules, le bouquet garni et le celeri. Mouillez avec le vin blanc.
+      4. Couvrez et laissez cuire à feu vif jusqu' à ce que les moules s'ouvrent complètement (5 minutes environ)..
+      5. Versez les moules et leur jus dans un plat creux. Servez avec les frites et une bière blonde.Pour les frites : 
+	1. epluchez les pommes de terre et coupez-les en larges bâtonnets. Lavez-les et essuyez-les soigneusement dans un torchon propre (pour retirer l'amidon).
+	2. Faites chauffer l'huile de friture à 180°C.
+	3. Plongez les frites et laissez-les cuire 10 à 15 minutes. Remontez-les à la surface et laissez-les s'egoutter quelques minutes.
+	4. replongez les frites dans l'huile bien chaude quelques minutes : elles seront dorees, croustillantes à l'exterieur et moelleuses à l'interieur. Servez-les aussitôt saupoudrees de sel.</instructions>
+			<nom_auteur>AUT4</nom_auteur>
+		</recette>
+		<recette id="r2101">
+			<nom>Gigot d_agneau au cumin</nom>
+			<identificateur>r2101-Gigot d_agneau au cumin</identificateur>
+			<resume>-	
+
+	Pour la cuisson d'un gigot d'agneau, comptez environ 15 min par livre. Il sera rose à coeur.
+	</resume>
+			<photo>http://www.odelices.com/images/recettes/gigot-d-agneau-au-cumin.jpg</photo>
+			<date_publication>2009-02-09</date_publication>
+			<difficulte>Très facile</difficulte>
+			<nom_ingredient>a117</nom_ingredient>
+			<nom_ingredient>cumin en grains</nom_ingredient>
+			<nom_ingredient>beurre</nom_ingredient>
+			<nom_ingredient> Sel</nom_ingredient>
+			<nom_ingredient> poivre</nom_ingredient>
+			<nom_sous-categorie>SC5</nom_sous-categorie>
+			<nbre_personnes>4</nbre_personnes>
+			<Preparation>5min</Preparation>
+			<Cuisson>45 min</Cuisson>
+			<Repos/>
+			<instructions>
+	1. Salez et poivrez le gigot d'agneau. Recouvrez-le de graines de cumin et deposez-le dans un plat allant au four.
+	2. Repartissez des noisettes de beurre sur le dessus de la viande et versez un fond d'eau dans le plat (environ 2 cm d'eau).
+	3. Faites cuire 45 min dans le four prechauffe à 180°C.
+	4. Servez avec une salade de pousses d' epinards ou de cresson.</instructions>
+			<nom_auteur>AUT1</nom_auteur>
+		</recette>
+		<recette id="r497">
+			<nom>Gigot d'agneau à la moutarde et au thym</nom>
+			<identificateur>r497-Gigot d'agneau à la moutarde et au thym, gousses d'ail confites</identificateur>
+			<resume>-	
+
+	Pour le repas de Pâques, j'aime beaucoup le traditionnel gigot d'agneau. C'est l'ami de ma soeur, qui a fait cette recette pour nous cette annee. Le gigot etait vraiment très parfume et bien moelleux.</resume>
+			<photo>http://www.odelices.com/images/recettes/gigot-d-agneau-a-la-moutarde-et-au-thym-gousses-d-ail-confites.jpg</photo>
+			<date_publication>2004-01-10</date_publication>
+			<difficulte>Facile</difficulte>
+			<nom_ingredient>a117</nom_ingredient>
+			<nom_ingredient> moutarde</nom_ingredient>
+			<nom_ingredient>thym seche</nom_ingredient>
+			<nom_ingredient>huile d'olive</nom_ingredient>
+			<nom_ingredient> Sel</nom_ingredient>
+			<nom_ingredient> poivre</nom_ingredient>
+			<nom_sous-categorie>SC5</nom_sous-categorie>
+			<nbre_personnes>6</nbre_personnes>
+			<Preparation>10min</Preparation>
+			<Cuisson>50 min</Cuisson>
+			<Repos/>
+			<instructions>
+	1. Prechauffez votre four à 180°C.
+	2. Nettoyez bien le gigot d'agneau, enlevez un peu de gras et salez-le. Melangez la moutarde, le thym et l'huile et badigeonnez-en le gigot.
+	3. Placez le gigot dans un plat allant au four et enfournez 40 à 50 min.
+	Pour une viande saignante, on compte 12 min de cuisson par livre (par 500 g), soit 43 min pour 1,8 kg.
+	Pour une viande à point, on compte 15 min de cuisson par livre, soit 54 min pour 1,8 kg.
+	Tout au long de la cuisson, retournez le gigot toutes les 10 min environ et arrosez-le avec le jus qui s'ecoule au fond du plat.
+	4. Pour la sauce : à la fin de la cuisson, deglacez le plat en versant le vin blanc. Decollez les sucs au fond du plat et remettez au four 5 min, le temps de decouper la viande et de servir.
+	5. Pour l'ail confit : ajoutez quelques gousses d'ail au fond du plat, non epluchees.
+
+	Servez avec des fagots de haricots verts entoures de tranches de lard et des pommes de terre sautees
+
+	</instructions>
+			<nom_auteur>AUT5</nom_auteur>
+			<note>5</note>
+		</recette>
+		<recette id="r1611">
+			<nom>Saumon teriyaki</nom>
+			<identificateur>r1611-Saumon teriyaki</identificateur>
+			<resume>-	
+
+	Mon cheri adore la sauce teriyaki pour accompagner le saumon. Legèrement sucree et un peu epaisse, elle rehausse le goût du poisson à merveille.
+	</resume>
+			<photo>http://www.odelices.com/images/recettes/saumon-teriyaki.jpg</photo>
+			<date_publication>2007-07-20</date_publication>
+			<difficulte>Très Facile</difficulte>
+			<nom_ingredient>s36</nom_ingredient>
+			<nom_ingredient>sauce soja</nom_ingredient>
+			<nom_ingredient>vin blanc</nom_ingredient>
+			<nom_ingredient>vinaigre blanc</nom_ingredient>
+			<nom_ingredient>gingembre</nom_ingredient>
+			<nom_ingredient>sucre</nom_ingredient>
+			<nom_sous-categorie>SC11</nom_sous-categorie>
+			<nbre_personnes>4</nbre_personnes>
+			<Preparation>5min</Preparation>
+			<Cuisson>15min</Cuisson>
+			<Repos>30min</Repos>
+			<instructions>
+	1. . Retirez les arêtes des paves de saumon.
+	2. Melangez l'ensemble des ingredients et faites-y mariner le saumon 30 min.
+	3. Placez les paves de saumon dans un plat à gratin. Arrosez-les de marinade.
+	4. Faites cuire environ 15 min dans le four prechauffe à 180°C.
+	5. Servez chaud, avec du riz.</instructions>
+			<nom_auteur>AUT1</nom_auteur>
+			<note>5</note>
+		</recette>
+		<recette id="r1915">
+			<nom>Pave de saumon aux girolles</nom>
+			<identificateur>r1915-Pave de saumon aux girolles</identificateur>
+			<resume>-	
+
+	Profitez d' une balade dans les bois pour ramasser quelques girolles et les cuisiner à la crème avec un beau pave de saumon.</resume>
+			<photo>http://www.odelices.com/images/recettes/paves_de_saumon_aux_girolles.jpg</photo>
+			<date_publication>2008-06-24</date_publication>
+			<difficulte>Très Facile</difficulte>
+			<nom_ingredient>s36</nom_ingredient>
+			<nom_ingredient>girolles nettoyees</nom_ingredient>
+			<nom_ingredient>crème legère</nom_ingredient>
+			<nom_ingredient>vin blanc</nom_ingredient>
+			<nom_ingredient>gingembre</nom_ingredient>
+			<nom_ingredient>ech12</nom_ingredient>
+			<nom_ingredient>sel</nom_ingredient>
+			<nom_ingredient>poivre</nom_ingredient>
+			<nom_sous-categorie>SC11</nom_sous-categorie>
+			<nbre_personnes>2</nbre_personnes>
+			<Preparation>10min</Preparation>
+			<Cuisson>20min</Cuisson>
+			<Repos/>
+			<instructions>
+	1. Pelez et coupez l'echalote en très fines tranches.
+	2. Faites-la revenir dans une sauteuse avec un peu d' huile à feu moyen durant quelques minutes.
+	3. Ajoutez les girolles, coupees en morceaux si elles sont trop grosses. Faites revenir 5 min à feu vif pour faire legèrement dorer.
+	4. Poussez les girolles sur le côte, ajoutez le saumon. Faites dorer 2 min une face puis retournez le pave de saumon très delicatement.
+	5. Deglacez avec le vin blanc. Laissez reduire 3 min.
+	6. Ajoutez la crème et terminez la cuisson durant 5 min à feu vif. Salez et poivrez à votre goût.
+	7. Servez le pave de saumon aux girolles avec des tagliatelles fraîches.</instructions>
+			<nom_auteur>AUT1</nom_auteur>
+		</recette>
+		<recette id="r4385">
+			<nom>Moelleux chocolat et l'huile d_olive</nom>
+			<identificateur>r4385-Moelleux au chocolat noir</identificateur>
+			<resume>-	
+
+	Donnez une touche d'originalite à vos moelleux au chocolat en remplaçant le beurre par de l'huile d'olive. Et pour une version sans lactose, utilisez de la crème vegetale.</resume>
+			<photo>http://www.odelices.com/images/recettes/moelleux_au_chocolat_noir.jpg</photo>
+			<date_publication>2015-04-17</date_publication>
+			<difficulte>Très Facile</difficulte>
+			<nom_ingredient>ch115</nom_ingredient>
+			<nom_ingredient>oeufs</nom_ingredient>
+			<nom_ingredient>crème liquide</nom_ingredient>
+			<nom_ingredient>cacao non sucre</nom_ingredient>
+			<nom_ingredient> fecule de maïs </nom_ingredient>
+			<nom_ingredient>huile d'olive</nom_ingredient>
+			<nom_sous-categorie>SC14</nom_sous-categorie>
+			<nbre_personnes>6</nbre_personnes>
+			<Preparation>15min</Preparation>
+			<Cuisson>10min</Cuisson>
+			<Repos/>
+			<instructions>
+	1. Coupez le chocolat en carre et faites-le fondre au bain-marie (ou au micro-onde).
+	2. Separez les blancs des jaunes d'oeufs.
+	3. Dans un saladier, melangez les jaunes avec le sucre. Ajoutez la crème liquide et l' huile d_olive.
+	4. Incorporez ensuite le cacao et la fecule prealablement tamises.
+	5. Puis ajoutez le chocolat fondu.
+	6. Battez les blancs d' oeufs en neige. Incorporez-les delicatement à la pâte à gâteau, à l' aide d_une spatule, en soulevant la pâte du bas vers le haut.
+	7. Versez la pâte dans des moules à muffins de preference en silicone, et enfournez pour 15 min à 180°C.
+	</instructions>
+			<nom_auteur>AUT1</nom_auteur>
+			<note>5</note>
+		</recette>
+		<recette id="r957">
+			<nom>Moelleux au chocolat et aux framboises</nom>
+			<identificateur>r957-Moelleux au chocolat coeur fondant</identificateur>
+			<resume>-	
+
+	Pour le ou la faire craquer : un moelleux y a pas mieux !!! Pour être sûr de reussir votre coup, faites-les cuire dans de jolis ramequins et ne vous embêtez pas à les demouler. Degustez-les à la cuillère, c' est aussi bon !</resume>
+			<photo>http://www.odelices.com/images/recettes/moelleux_au_chocolat_coeur_fondant_aux_framboises.jpg</photo>
+			<date_publication>2005-06-27</date_publication>
+			<difficulte>Facile</difficulte>
+			<nom_ingredient>ch115</nom_ingredient>
+			<nom_ingredient>beurre</nom_ingredient>
+			<nom_ingredient>sucre</nom_ingredient>
+			<nom_ingredient> farine</nom_ingredient>
+			<nom_ingredient> oeuf </nom_ingredient>
+			<nom_ingredient> fr12</nom_ingredient>
+			<nom_sous-categorie>SC14</nom_sous-categorie>
+			<nbre_personnes>2</nbre_personnes>
+			<Preparation>10min</Preparation>
+			<Cuisson>10min</Cuisson>
+			<Repos/>
+			<instructions>
+	1. Reunissez les framboises et le sucre dans une petite casserole. Faites chauffer doucement jusqu_à obtenir une compotee, remuez regulièrement. Si vous preferez, vous pouvez passer la compotee de framboises au tamis pour enlever les pepins.
+	2. Cassez l' oeuf delicatement, separez le blanc du jaune. Fouettez le jaune avec le sucre et la farine, puis lorsque la preparation est homogène, ajoutez le chocolat et le beurre fondus.
+	3. Montez le blanc d' oeuf en neige avec une pincee de sel et ajoutez-le delicatement à la pâte.
+	4. Repartissez les deux tiers de la preparation au fond de ramequins beurres et farines. Repartissez la compotee aux framboises au centre de chacun et couvrez avec le reste de la pâte.
+	5. Faites cuire 10 min environ dans le four prechauffe à 180°C. Degustez tièdes les moelleux, demoules ou non.
+
+	Astuce : la realisation de la compotee de framboises permet d' eviter de trop sucrer vos moelleux et d_avoir un coeur reellement coulant. Si vous êtes presses, remplacez par de la confiture, mais le resultat final sera bien plus sucre.
+
+	</instructions>
+			<nom_auteur>AUT1</nom_auteur>
+			<note>5</note>
+		</recette>
+		<recette id="r2678">
+			<nom>Moelleux au chocolat au coeur cerise</nom>
+			<identificateur>r2648-Moelleux au chocolat au coeur cerise</identificateur>
+			<photo>http://www.odelices.com/images/recettes/moelleux-au-chocolat-au-coeur-cerise.jpg</photo>
+			<date_publication>2010-10-21</date_publication>
+			<difficulte>Très Facile</difficulte>
+			<nom_ingredient>ch115</nom_ingredient>
+			<nom_ingredient>beurre</nom_ingredient>
+			<nom_ingredient>sucre</nom_ingredient>
+			<nom_ingredient> ce100</nom_ingredient>
+			<nom_ingredient> oeuf </nom_ingredient>
+			<nom_ingredient>  farine </nom_ingredient>
+			<nom_sous-categorie>SC14</nom_sous-categorie>
+			<nbre_personnes>2</nbre_personnes>
+			<Preparation>20min</Preparation>
+			<Cuisson>15min</Cuisson>
+			<Repos/>
+			<instructions>
+	1. Lavez les cerises, denoyautez-les.
+	2. Coupez la chair grossièrement et faites-la compoter dans une casserole avec le sucre, sur feu vif. Remuez sans arrêt, faites epaissir environ 5 min.
+	3. Faites fondre le beurre et le chocolat à feu très doux ou au bain-marie.
+	4. Incorporez au fouet le jaune d' oeuf et le sucre, puis ajoutez la farine.
+	5. Fouettez le blanc d' oeuf en neige et ajoutez-le à la pâte sans trop l' ecraser.
+	6. Garnissez à demi des ramequins beurres et repartissez la compotee de cerises au centre puis couvrez de pâte.
+	7. Prechauffez le four à 180°C et faites cuire les moelleux au chocolat au coeur cerise 10 min.
+
+	Astuce : vous pouvez garnir les moelleux d' une cuilleree de confiture du commerce, mais le moelleux sera beaucoup plus sucre.
+
+
+	</instructions>
+			<nom_auteur>AUT1</nom_auteur>
+			<note>4</note>
+		</recette>
+	</liste_recettes>
+	<liste_ingredients>
+		<ingredient id="t142">
+			<nom>Thon</nom>
+			<Apport_energetique>180 kcal pour100 g</Apport_energetique>
+			<Apport_nutritif>riche en omega 3</Apport_nutritif>
+			<nom_recette>r2830</nom_recette>
+			<nom_recette>r4315</nom_recette>
+			<descriptif>Ecologie:La pêche du thon rouge est controversee, l'animal etant en voie d'extinction à cause de sa surpêche. La tentative d' en interdire la pêche a echoue en 2010, c'est donc au consommateur de faire preuve de discernement. Le Japon et le thon rouge : 90% du thon rouge pêche serait achete par les japonais. La bonite, variete de thon, est egalement très presente dans la cuisine traditionnelle japonaise. Cette presence sur le marche a eu un poids considerable lors de l' echec de l' interdiction de pêche du thon rouge.
+
+	
+	  Les techniques de pêche :
+
+	  La technique traditionnelle pratiquee en Mediterranee, la madrague, est controversee car on lui reproche de saisir les femelles en periode de reproduction. Les thoniers quant-à eux deploient des filets de plusieurs dizaines d'hectares et des equipements industriels couteux pour une pêche devastatrice. Une pêche plus selective peut être appliquee : la pêche à la ligne, chaque thon etant appâte à l' unite sur un hameçon plutôt qu'une prise d'ensemble degradant l'ensemble de l'ecosystème. Certaines marques affichent sur leurs emballage la technique de pêche utilisee. Le thon rouge est un poisson predateur se nourrissant de petits poissons (anchois, sprats, maquereaux). Sa chair est riche en lipides, d'où sa teneur en omega 3, mais en fait un poisson susceptible de stocker comme le saumon les metaux lourds presents dans les eaux de plus en plus polluees (plomb, mercure..)
+
+
+	  
+	  Bien le choisir :
+
+	  Son odeurs est plus carnee qu'un autre poisson, mais toujours fraiche. En vous le vendra generalement en darnes (tranches) ou en paves, il s' oxyde très rapidement une fois coupe. Evitez d'en consommer durant l'ete, sa periode de frai. Sa couleur varie en fonction de la variete, d' un blanc rose, gris parfois vers un rouge profond pour le thon rouge.
+
+
+
+	
+	  Bien le conserver :
+
+	  Consommez le dans les 24h au plus après l' achat. Sinon, congelez le soigneusement emballe et etiquete. On trouve en magasin differents types de thon surgeles.
+
+
+
+	
+	  Bien le cuisiner :
+
+	  La cuisson assèche considerablement les chairs, veillez à ne pas trop la prolonger. Il devient facilement fibreux et trop dur. Pour eviter de gâcher du poisson trop cuit, travaillez le en rillettes pour lui redonner du moelleux et de la souplesse. Si vous consommez le thon cru, n' hesitez pas à le congeler 24h avant de le preparer, pour des sushis par exemple. Ainsi, vous neutraliserez des parasites souvent presents dans la chair du poisson. Ces precautions s' appliquent egalement pour un tartare de thon, le poisson cru est terriblement sensible aux bacteries.
+
+
+	</descriptif>
+		</ingredient>
+		<ingredient id="s36">
+			<nom>saumon</nom>
+			<Apport_energetique>190 kcal pour 100 g</Apport_energetique>
+			<Apport_nutritif>riche en omega 3 (d' autant plus lorsqu' il est consomme cru)</Apport_nutritif>
+			<nom_recette>r1611</nom_recette>
+			<nom_recette>r1915</nom_recette>
+			<descriptif>Ce nom designe en realite un grand nombre de poissons de la famille des salmonides, celle ci incluant egalement la truite. On estime à plus de 90% le saumon issu de l' elevage contre 10% de saumon sauvage sur le marche. Ce dernier affichant une baisse de population de 75% au cours des 20 dernières annees, on ne peut qu' encourager une consommation raisonnee de poisson sauvage.
+	Les principales varietes de saumon, le nom latin vous permettrez d' identifier l' espèce qui vous est vendue. Le saumon Royal : Oncorhyncus tshawytscha. C' est l' une des plus grandes varietes de saumon, et l' un des plus recherchees. Sa chair est particulièrement plebiscitee pour le fumage pour sa fermete et son parfum. Le saumon rouge (Oncorhyncus nerka) et le saumon argente (Oncorhyncus kisutch) dont la chair est rouge à orangee, ferme et très savoureuse. Le saumon atlantique (salmo salar) : d' un type plus resistant que d' autres saumons, classe en voie de disparition , sa pêche est interdite en France, vous le trouverez donc issu d_elevages. Les saumons Keta et saumon rose sont consideres comme des poissons de qualite inferieur à cause de leur chair friable, terne et peu parfumee. On trouve egalement des saumons d' eau douce aux nageoires plus grandes adaptee à la nage en eaux vives.
+
+	
+	  Consommation eco-responsable et sante :
+	  La saumon est un poisson dont l' elevage necessite une grande quantite de poison sauvage utilises pour confectionner l' alimentation des poissons d' elevage. On estime à environ 6 kilos de farines de poisson pour nourrir 1 kilo de saumon. La consommation de poisson d' elevages n' est donc pas une solution miracle à la question de la pêche de poissons sauvages. De plus, le saumon est l_un des poissons qui stockerait le plus le mercure present dans son environnement, celui ci serait donc assimile directement par votre organisme. evidemment, il s' agit de faire preuve de mesure et de ne pas s' alimenter exclusivement à partir de saumon. Une contamination aux metaux lourds dans le cadre d' une alimentation variee est très peu probable.
+
+
+	  
+	  Bien le choisir :
+
+	  Comme pour tous les poissons, choisissez en un qui ne sente que le frais, la mer, et en aucun cas une odeur trop agressive. La peau doit être humide voire encore couverte du mucus naturel du poisson, c' est un signe de grande fraicheur. Les yeux encore ronds et brillants, les ecailles petites et fines bien accrochees, les ouies doivent être rouge vif ou fonce, mais non marron. En cas de doute, le poissonnier a l' obligation de vous presenter l' etiquette du colis si vous en faites la demande, la date de pêche sera inscrite dessus et parfois la date limite de consommation, sinon, comptez 8 jours maximum après le conditionnement.
+
+
+
+	
+	  Bien le conserver :
+
+	  Le saumon frais se conservera deux jours dans la zone la plus froide de votre refrigerateur. Ce poisson se congèle très bien, vous pouvez congeler vous même vos filets desarretes et emballes individuellement dans du film alimentaire, veillez à etiquetez soigneusement avec la date et le nom du produit.
+
+
+	
+	  Bien le cuisiner :
+
+	  Le saumon est l' un des poissons les plus consommes en France. Decouvert cru par le grand public depuis la mode des sushis, il est egalement très present dans la culture nordique en gravlaax, fume, prepare en feuilletes dans le fameux koulibiac russe, il est bien present dans les differentes gastronomies du globe. La congelation est même un atout pour la consommation crue, elle a le merite de tuer certains vers parfois (mais rarement) presents dans ce poisson. Il est conseille de stocker au congelateur durant au minimum 24h les poissons utilises pour les sushis afin de tuer les parasites potentiels. La congelation ne neutralise cependant pas les bacteries, veillez à ne jamais recongeler un produit decongele et à l_utiliser ensuite rapidement. Les varietes de saumon Keta et saumon rose dont nous parlions plus haut ne sont pas adaptees à une consommation crue du fait de la texture spongieuse desagreable de leur chair.
+
+	</descriptif>
+		</ingredient>
+		<ingredient id="ch115">
+			<nom>Chocolat Noir</nom>
+			<nom_recette>r4385</nom_recette>
+			<nom_recette>r4957</nom_recette>
+			<nom_recette>r2678</nom_recette>
+			<descriptif>Melange de pâte de cacao et de sucre, en proportions precises et legalement definies, auxquels on peut ajouter du beurre de cacao, du lait, du miel, des fruits secs et des aromates.
+	
+
+	  Son origine:
+
+	  Le mot « chocolat », comme le mot « cacao » dont il est issu, vient du Mexique. Il est compose de tchoco, « bruit » en aztèque, et atle, qui veut dire « eau » : le tchocoatl etait la boisson divine des Aztèques, un melange d' eau et de fèves de cacao, grillees et ecrasees, qu' ils remuaient fortement dans de grands bols. Ils y ajoutaient du piment, du miel, du musc, de la cannelle et parfois de la farine de maïs. Les conquistadores importèrent en Europe les premières fèves de cacao, mais, jusqu' au règne de Louis XIV, où apparurent les premières pastilles, le chocolat n' etait consomme que sous forme de boisson, reservee à une elite. La première chocolaterie française, la Chocolaterie royale, fut creee en 1776 à Bayonne. Le xixe siècle vit la creation des grandes chocolateries industrielles. En 1869, en Suisse, Peter mit au point la recette du chocolat au lait, produit qu' Henri Nestle perfectionna avec la technique du chocolat fourre.
+
+
+	  
+	  Sa fabrication:
+	  La fabrication du chocolat demande plusieurs jours : le melange de pâte de cacao et de sucre, additionne de beurre de cacao et parfois de lecithine, est affine entre des cylindres d' acier. Pendant 24 à 72 heures, on procède ensuite au conchage, brassage intensif de la pâte dans des conches, ou cuves. Puis le chocolat est tempere, ramene à 28-31 °C, moule, tapote afin d' eliminer les bulles d' air, refrigere, demoule et, enfin, emballe.
+
+
+
+	
+	  Bien le choisir :
+	  Plus un chocolat est riche en cacao, plus il est cher. Outre les differents types de chocolat en tablette, dont la teneur en cacao doit toujours être indiquee sur l'emballage, on trouve des produits dits :
+	  -« au chocolat » ou « au cacao », soit solides (contenant 35 % au moins de cacao), soit en poudre (32 % de cacao), soit liquides (6 % de cacao)
+	  - des produits « chocolates » ou « cacaotes », contenant de 20 à 35 % de pâte ou de poudre de cacao
+	  - des produits portant la mention « parfum chocolat » ou « cacaote », contenant tous des quantites inferieures aux taux precedents.
+
+	  Le chocolat « blanc » est à base de beurre de cacao aromatise. Dans le chocolat dit « light », une partie du sucre est remplacee par des edulcorants de synthèse ; la quantite de matière grasse est la même.
+	  Les mentions « parfum chocolat » ou « parfum cacao » s' appliquent à des produits à teneur en cacao inferieure aux precedentes.
+
+	  Le chocolat entre dans la composition de nombreux bonbons et produits de chocolaterie ou de confiserie : les produits moules (cloches, oeufs, etc.) ; les tablettes, bâtons ou barres fourres (fondant, praline, caramel, etc.) dont la nature du fourrage et la denomination doivent être clairement indiquees ; au-dessus de 35 % de cacao, il s'agit de « chocolat fourre », en dessous de 25 %, ce sont des produits « enrobes de chocolat ».
+	  Le chocolat de couverture contient une proportion plus elevee de beurre de cacao, ce qui abaisse son point de fusion. Elle est utilisee en pâtisserie et en confiserie.
+
+
+
+	
+	  Bien le cuisiner :
+
+	  Le chocolat craint la chaleur. Non seulement il ramollit, mais le gras remontant à la surface, il devient plus ou moins blanc. Il craint tout autant le froid, qui le rend cassant, dur et sec. Il se conserve très bien à une temperature de 18 °C, dans une boîte hermetique qui le protège de l' humidite. En pâtisserie, le chocolat se prête à de nombreuses preparations : biscuits, crèmes, mousses, gâteaux, glaces, etc. Un carre de chocolat noir dans la sauce d' un civet l' ameliore en neutralisant son acidite. Le chocolat entre aussi dans la composition de quelques recettes de la cuisine mexicaine.
+	  Pour confectionner desserts et pâtisseries à base de chocolat, il est recommande d' employer des tablettes à teneur elevee de cacao (50 % au minimum).
+
+	
+	  Sa composition:
+	  On attribue au chocolat autant de vertus que de defauts.
+	  Par sa richesse en glucides et en lipides, c' est avant tout un aliment très energetique sous un petit volume. Il contient de très faibles quantites de cafeine (voir Cafe) et de theobromine (voir The), qui sont des toniques, de serotonine et de phenylethylamine, qui ont des actions anti-stress (comme d' ailleurs les glucides) et des proprietes antidepressives, et enfin des sels mineraux (surtout du magnesium) et des vitamines du groupe B.
+	  Tout ceci peut expliquer son action tonique sur l' organisme, à condition que l' on en absorbe suffisamment. Mais sa forte teneur en glucides le rend susceptible de provoquer des caries dentaires et il peut declencher parfois une allergie. Contrairement à certaines idees reçues, il n' est la cause ni de « crise de foie » ni de constipation et ne favorise pas particulièrement l' acne. Sa reputation d' aliment aphrodisiaque, qui date des Aztèques, n'a jamais ete verifiee scientifiquement.
+
+	</descriptif>
+		</ingredient>
+		<ingredient id="a117">
+			<nom>Agneau</nom>
+			<nom_recette>r2101</nom_recette>
+			<nom_recette>r497</nom_recette>
+			<descriptif>L'agneau goûte la laine! Victime de ce prejuge dont on ignore les origines, l_agneau est une viande encore trop boudee au Quebec. Mais si l'on se fie au succès grandissant des traiteurs qui organisent et realisent des mechouis, il est clair que sa cote d'amour est ascendante.
+
+      On porte une attention très speciale à la nourriture et les bêtes sont abattues plus jeunes dans le but d'obtenir une chair irreprochable.
+
+      Il n'y a pas que le gigot
+      L'agneau est une des meilleures viandes à consommer sur le barbecue, car son goût particulier est très compatible avec la fumee. De plus, comme toutes les parties de la bête sont relativement tendres, nous ne sommes pas limites à consommer que le gigot ou les côtelettes; l'epaule desossee et en cubes marinee et grillee en entier est un delice.
+
+      Et que dire des jarrets, mes morceaux preferes!
+      Quelle chance nous avons car en plus des côtelettes et du gigot, nous pouvons aujourd'hui acheter separement des jarrets qui font le bonheur des mordus du couscous. Le truc: demarrer la cuisson de vos jarrets dans un court-bouillon simple (eau, sel, un oignon pique d'un clou de girofle, une feuille de laurier, quelques grains de poivre, une tige de thym frais, une carotte grossièrement coupee et une gousse d'ail). Après une heure, retirer vos jarrets du court-bouillon et badigeonner de moutarde ou d'une de vos marinades preferees et griller sur le barbecue.
+
+      Herbes et epices
+      L'ail, la menthe fraîche, la cardamome, le carvi, le curcuma, le cumin, le genièvre, la marjolaine, la moutarde, le romarin, la sauge et le thym sont compatibles et rehaussent merveilleusement l'agneau.
+
+      Digne d'un roi
+      Pour un barbecue royal, demandez à votre boucher de bien degraisser des carres d'agneau et de bien degager les os. Cette partie de viande etant tendre, une marinade aromatique de quelques minutes à quelques heures est suffisante avant la cuisson.
+
+      Marinez les carres dans une marinade de votre choix, recouvrez les os de papier aluminium pour eviter que ces derniers ne carbonisent et enfin, grillez.
+
+
+      </descriptif>
+		</ingredient>
+		<ingredient id="t120">
+			<nom>Tomate</nom>
+			<Apport_energetique>18 Kcal / 100 g</Apport_energetique>
+			<Apport_nutritif>bêta-carotène, vitamines B9 et C, potassium, phosphore, magnesium, calcium</Apport_nutritif>
+			<saison>juillet à octobre</saison>
+			<nom_recette>r42830</nom_recette>
+			<nom_recette>r4315</nom_recette>
+			<descriptif>
+	  
+	  Son orginie :
+	  La tomate, decouverte au Perou par Christophe Colomb, fait son entree en Italie au 16ème siècle. Elle porte le joli nom de « pomme d'or ». Ce n'est qu'au 19ème siècle qu'elle fit son apparition en France. Elle fût d'abord consideree comme veneneuse puis consommee uniquement cuite. Ce n'est qu'après d'infinis debats qu'elle fût degustee crue. La tomate est aujourd'hui le fruit le plus consomme.
+
+	
+
+	  Bien la choisir :
+
+	  La mondialisation nous fait oublier que toutes les tomates ne sont pas bien rondes et lisses. Ils en existent de nombreuses varietes : rondes, ovales, rouges, jaunes, vertes, violettes, tachetees ou non. Choisissez-les bien fermes avec une peau bien tendue et un pedoncule bien vert, ayant une bonne odeur de feuille. En mûrissant, la tomate devient plus fragile.
+
+
+	
+	  Bien la conserver :
+
+	  Les tomates se conservent à temperature ambiante et non pas au froid, qui risquerait d'alterer les qualites gustatives du fruit. Vous pouvez les garder environ une semaine. Pour les garder plus longtemps, placez-les quelques jours au refrigerateur pour stopper le mûrissement et sortez-les un jour avant de les consommer.
+
+
+	
+	  Bien le cuisiner :
+
+	  Delicieuses crues, en salade, sorbet ou gaspacho, vous pouvez aussi les cuire pour realiser une sauce tomate, un risotto, des tomates farcies, des tomates sechees. La peau est souvent enlevee dans les plats en sauce : plongez les tomates 1 min dans une grande casserole d'eau bouillante salee, puis dans un grand saladier d'eau froide, la peau s'enlèvera très facilement. En version sucree, laissez-vous tentez par de la confiture de tomates.
+
+
+	</descriptif>
+		</ingredient>
+		<ingredient id="e300">
+			<nom>Endive</nom>
+			<Apport_energetique>Moins de 20 Kcal pour 100 g</Apport_energetique>
+			<Apport_nutritif>vitamines C et B ainsi qu'en Potassium</Apport_nutritif>
+			<saison>octobre à mai</saison>
+			<nom_recette>r4315</nom_recette>
+			<descriptif>
+	L'endive, ou chicon pour les belges, peut se consommer crue ou cuite. Elle presente un petit goût amer, qui l'eloigne parfois de nos cuisines. Un petit conseil, sucrez un peu vos preparations pour estomper l'amertume.
+	
+	  Son Origine:	
+	  Connue depuis le milieu du 19ème siècle, elle est issue de plants de chicoree forces à pousser dans l'obscurite. L'endive est composee de feuilles croquantes, blanches à jaune reunies autour d'un tronc cassant et amer. Son nom flamand « Witloof » signifie feuille blanche. Elle a parmi ses cousines la chicoree à cafe, dont la racine volumineuse est utilisee pour la confection de la boisson du même nom, et des salades telles que la scarole ou la frisee. La choisir : L'endive doit être la plus pâle possible, seules l'extremite de ses feuilles etant jaune. Une endive mal conservee (à la lumière, trop chaud) deviendra verte et gagnera en amertume. Regardez egalement la cassure du tronc, elle s'oxyde naturellement en rose mais ne doit pas devenir brune.
+	
+	  Bien la conserver :
+
+	  Dans le bac à legumes du refrigerateur, dans un torchon, il est conseille de les manger avant une semaine pour eviter qu'elles ne vieillissent. La cuisiner Crue en salade, barquettes aperitives et sandwichs, elle apporte du croquant pour qui aime sa saveur legèrement amère. Elle se marie avec des fromages de type bleu d'Auvergne ou roquefort, des noix et des pommes. Le comte est egalement particulièrement assorti à ses saveurs et merite tout particulièrement d'être utilise dans les versions cuites : en gratins, au jambon, en poêlees de legumes ou encore en veloutes. Pour les gratins, nous vous conseillons de la pre cuire à l'etuvee dans un fond d'eau, jusqu'à pouvoir piquer d'une lame le tronc sans qu'il resiste. Il est ensuite necessaire de laisser egouttez les endives tête en bas pour extraire l'excedent d'eau, mais elles n'en seront que plus fondantes.
+
+	</descriptif>
+		</ingredient>
+		<ingredient id="oi16">
+			<nom>Oignon</nom>
+			<Apport_energetique>34kcal/100g.</Apport_energetique>
+			<Apport_nutritif> Il contient beaucoup de fibres, mineraux et oligo-elements. Pour ce qui est des vitamines, il est riche en vitamine C, B et E et provitamine A.</Apport_nutritif>
+			<saison>avril à juin</saison>
+			<nom_recette>r1241</nom_recette>
+			<descriptif>L'oignon est une plante herbacee bisannuelle de la famille des liliacees comme l'ail, cultivee depuis longtemps comme une plante potagère pour sa bulbe savoureuse et odorante. C'est à la fois un legume et un condiment precieux qui possède de multiples proprietes medicinales. Les trois varietes les plus connues sont l'oignon blanc (frais) et les oignons rouges/roses et jaunes (secs), ceux qui font le plus pleurer !
+
+	
+	  Son Origine :
+
+	  Originaire d'Asie, l'oignon est l'une des racines dont la culture est la plus ancienne. Il remonte à la prehistoire. Il etait aussi très apprecie par les Egyptiens. On le retrouve d'ailleurs frequemment represente sur leurs tombeaux.
+
+
+	  
+	  Bien le choisir :
+
+	  Pour un oignon sec (jaune ou rouge), choisissez-le bien ferme, avec des pelures lisses et saines.
+	  Pour un oignon frais (blanc), choisissez-le avec des feuilles bien vertes.
+
+
+	
+	  Bien le conserver :
+
+	  L'oignon blanc se conserve moins bien, il faut donc le garder au refrigerateur. L'oignon jaune ou rouge se conserve lui plutôt bien quand il est dans un endroit frais et sec, à l'abri de la lumière.
+
+
+	
+	  Bien le cuisiner :
+
+	  Legume d'accompagnement par excellence, on le retrouve dans de nombreuses recettes car il sert de base aromatique à de nombreux plats. Il accompagne très bien les viandes et grillades. Il peut egalement être l'ingredient principal de vos plats : oignons farcis, tarte ou soupe à l'oignon, omelette à l'oignon
+
+	</descriptif>
+		</ingredient>
+		<ingredient id="ech12">
+			<nom>Echalotte</nom>
+			<Apport_energetique>50 kcal/100g.</Apport_energetique>
+			<Apport_nutritif>  Très riche en vitamines C et B, en mineraux et oligo-elements. Elle contribue efficacement à la couverture ds besoins en potassium, magnesium, fer et zinc.</Apport_nutritif>
+			<saison>juin à octobre</saison>
+			<nom_recette>r1241</nom_recette>
+			<nom_recette>r1915</nom_recette>
+			<descriptif>L'echalote est un legume-bulbe (appele aussi legume-condiment) qui se divise en 7 ou 8 « caïeux » très utilises dans nos cuisines ! Elle fait partie de la famille des alliacees, la même que l'ail, le poireau, la ciboulette et l'oignon. Parmi les varietes les plus cultivees, on retrouve l'echalote de Jersey (echalote rose) et l'echalote grise très appreciee dans le sud de la France.
+	
+	  Son Origine :
+
+	  L'echalote serait originaire d'Asie Occidentale. Elle tire son nom du latin « ascolonia cepa », qui signifie « oignon d'Ascalon », en reference à la ville de la Terre Sainte d'où les 1ers croises ramenèrent la plante. Les Perses et les Egyptiens la consideraient il y a 2000 ans comme une plante sacree. Ce n'est qu'au Moyen-Âge qu'elle entre dans la gastronomie française et les jardins.
+
+
+	  
+	  Bien la choisir :
+
+	  Choisissez-la plutôt petite afin qu'elle ait plus de saveur, bien ferme, sans germes ni moisissures.
+	  Son enveloppe doit être sèche et brillante.
+
+
+	
+	  Bien la conserver :
+	  La conserver surtout à l'abri de la lumière et de la chaleur. Elle se garde plusieurs semaines de cette façon avant que des germes apparaissent. Pelee, elle peut se conserver 3 jours maximum au refrigerateur dans un recipient hermetique.
+
+
+	
+	  Bien la cuisiner :
+
+	  Depuis longtemps, l'echalote permet l'elaboration de nombreuses sauces très connues comme la bearnaise, la bordelaise, la gribiche ou même la vinaigrette ! On peut la consommer crue ou cuite, souvent hachee, en condiment. Elle est delicieuse sous forme de confiture de chutney. Très savoureuse aussi dans les omelettes, et dans des plats de viandes blanches ou rouges.
+
+	</descriptif>
+		</ingredient>
+		<ingredient id="pom06">
+			<nom>Pommes de terre</nom>
+			<Apport_energetique>120 kcal/100g.</Apport_energetique>
+			<Apport_nutritif> riche en glucides, potassium, phosphore et vitamines B, et en antyoxydants</Apport_nutritif>
+			<saison>en janvier, les pommes de terre nouvelles, les pommes de terre se recoltent durant l_hiver pour se stocker toute l_annee</saison>
+			<nom_recette>r1241</nom_recette>
+			<descriptif>Tubercule de la famille des solonacees, la pomme de terre, la patate ou truffe selon les regions, fait partie des ingredients preferes des français. Bien que poussant comme un legume, elle se revèle un feculent à l'index glycemique assez eleve. Sa consommation doit donc être surveillee pour les diabetiques. Elle se consomme exclusivement cuite et peut même se reveler toxique lorsqu'elle est crue ou qu'elle commence à germer excessivement.
+	
+	  Son Histoire :
+
+	  On trouve trace de varietes primitives de pomme de terre dans les Andes, datant de 8000ans avant J.C. Avec la conquête et la colonisation des Ameriques, elle fait son apparition en Europe et ne sera reellement utilisee qu'au 17ème siècle, puis popularisee en France à la fin du 18ème siècle par Antoine Parmentier. Au 19ème siecle, une epidemie de mildiou ravagea la quasi totalite des culture de pomme de terre irlandaise, faisant connaître un episode de famine au pays tel qu'une vague massive d'immigrant afflua vers les Etats Unis, entre autres. De nos jours, la culture de la pomme de terre n'a plus de secret mais elle est l'un des legumes les plus traites, du fongicide à l'anti-germinatif en passant par une gamme complète de pesticides pour preserver la plante durant sa croissance.
+
+
+	  
+	  Bien la choisir :
+
+	  Elle doit etre ferme, voire dure. Sa peau sans lesions brunatres et sans odeur suspecte, de même qu'elle ne devrait pas monter en germes. Les pommes de terre nouvelles seront choisies à la peau la plus fine possible sans se laisser amadouer par la jolie cagette en bois, en vrac, elles seront aussi bonnes ! Il existe differentes pommes de terre pour differents usages :
+	  à chair farineuse, pour soupes/purees/frites (plus riches en amidon)  : Bintje, Agata, Monalisa, Carlita
+	  à chair ferme, pour salade, pommes sautees : Charlotte, Roseval, Amandine, BF15, Belle de Fontenay
+	  les primeurs, recoltees avant maturite et à deguster pour leur finesse : rattes, bonottes
+
+
+	
+	  Bien la conserver :
+	  Pour des pommes de terre nouvelles, mangez-les le plus vite possible avant qu'elles ne soient plus « nouvelles », pour les pommes de terre de conservation, gardez-les dans un placard à l'abri de la lumière et de la chaleur, sans quoi elles germeront.
+
+
+	
+	  Bien la cuisiner :
+
+	  Il est indispensable de cuire les pommes de terre, quelque soit la technique utilisee. À l'eau : compter 25 à 40 minutes de cuisson selon la taille des pommes de terre. Au four : 1 h au minimum à 180° sautees, 15 minutes environ. Ces temps de cuisson ne sont qu'indicatifs, et varient en fonction du type de pomme de terre. Une seule technique est fiable : piquer pour voir si elle fond ou si elle croque. Les pommes de terre nouvelles ne necessitent pas d'être epluchees. Si vraiment la peau vous gène, frottez les dans du gros sel, enveloppees dans un torchon.
+
+	</descriptif>
+		</ingredient>
+		<ingredient id="ce100">
+			<nom>Cerises</nom>
+			<Apport_energetique>beta-carotènes (anti-oxydants), vitamines B9, potassium</Apport_energetique>
+			<Apport_nutritif>68 kcal / 100 g.</Apport_nutritif>
+			<saison>mai à juillet</saison>
+			<nom_recette>r2648</nom_recette>
+			<descriptif>
+	  Son Origine :
+
+	  Fruit de la famille des rosacees. Les romains apportèrent des plants de cerisier d'Asie Mineure en Europe au debut de notre ère. Ils s'apparentaient probablement aux merises que nous connaissons : de petits grappes de cerises très foncee, couvertes de peu de chair et à la peau fragile.
+	  Elle est cultivee et commercialisee depuis le Moyen Age tant pour le bois de l'arbre que pour ses fruits, mais c_est sous le règne de Louis XV qu'elle sera reellement selectionnee et cultivee de façon intensive, afin de satisfaire la demande royale.
+
+	  
+	  Bien la choisir :
+
+	  La cerise, quelque soit sa taille doit avoir la peau tendue. Certaines varietes sont naturellement jaunes, craquelees ou plus molles que d'autres, il est imperatif de gouter pour en verifier la qualite. La tige doit être verte et fraiche. Marron ou racornie, elle est signe d'un fruit cueilli il y a dejà trop longtemps. Certaines varietes de cerises (griotte, amarelles) sont acides et doivent être cuisinees ou placees en bocaux pour être consommees.
+
+
+	
+	  Bien la conserver :
+	  Quatre jours dans un endroit frais, mais evitez le refrigerateur si possible, car il altère leur arôme. Conservez sinon au congelateur, denoyautees, ou en bocaux au sirop ou à l'alcool. On trouve egalement des cerises confites mais elles perdent generalement tout leur arôme.
+
+	
+	  Bien la cuisiner :
+
+	  Retrouvez la cerises dans le celèbre clafoutis du Limousin (avec ou sans les noyaux,à vous de choisir) mais aussi en gâteaux, smoothies, cuite avec du canard, poêlee avec du miel pour accompagner du fromage. On la retrouve dans certaines regions sous forme de liqueur (Kirsh, guignolet) ou simplement conservee dans de l'alcool pour fruits.
+
+
+	</descriptif>
+		</ingredient>
+		<ingredient id="fr12">
+			<nom>Framboise</nom>
+			<Apport_energetique>vitamines B9 et C, potassium, magnesium, phosphore, calcium</Apport_energetique>
+			<Apport_nutritif>49 kcal / 100 g</Apport_nutritif>
+			<saison>mai à août</saison>
+			<nom_recette>r957</nom_recette>
+			<descriptif>
+	  Son Origine :
+
+	  Fruit du framboisier, ronce sauvage des sous-bois montagneux. La culture de ce fruit remonte au Moyen Âge, mais elle fut amelioree au XVIIIe siècle et ne se developpa reellement qu'au XXe siècle.
+	  De forme ovoïde ou conique, assez petite, d'un rouge plus ou moins fonce bien qu'il existe des varietes jaunes -, la framboise est sucree, un peu acide et très parfumee. Elle est maintenant produite, en pleine terre ou sous abri, dans le Val de Loire, le Limousin, l'Île-de-France et toute la region Rhône-Alpes.
+
+	  
+	  Bien la choisir :
+
+	  Les framboises du printemps sont cultivees sous serre. Il faudra attendre le mois de juin pour voir apparaître sur le marche des fruits cultives en pleine terre, bien plus sucres : les varietes non remontantes, de mi-juin à mi-juillet (meeker, glen moy, sch_nemann, mailing promise) puis les varietes remontantes, de mi-juillet à octobre (heritage, lloyd george, hybrides). La framboise est un fruit fragile, toujours vendu en barquettes. Elle doit être bien charnue, non moisie, sèche et fraîche au toucher.
+
+
+	
+	  Bien la conserver :
+	  La framboise est à consommer rapidement après l'achat ou la cueillette car elle se conserve très mal. Elle ne se lave pas et s'equeute avec precaution. Les framboises se congèlent très bien, mais, une fois decongelees, elles sont ramollies et peu presentables. Il faut les reserver plutôt à la preparation de mousses, de coulis, de bavarois, etc.
+	
+	  Bien la cuisiner :
+
+	  Rien n'est meilleur qu'un petit bol de framboises fraîches. Si besoin, ajoutez un peu de sucre ou de crème fraîche. Deposez des framboises entières sur un fond de tarte, une mousse au chocolat ou un entremet. Faites-en aussi des compotes, des crèmes, des sorbets ou des confitures. Ajoutees dans un gâteau, elles apporteront beaucoup de moelleux. Elles se conservent au sirop, à l'eau-de-vie ou au naturel.
+
+	</descriptif>
+		</ingredient>
+	</liste_ingredients>
+	<liste_auteurs>
+		<auteur id="AUT1">
+			<idext>Marie-Laure Tombini</idext>
+			<nom>Tombini</nom>
+			<prenom>Marie-Laure</prenom>
+			<pays>France</pays>
+			<sexe>Femme</sexe>
+			<nom_recette>r4275</nom_recette>
+			<nom_recette>r3299</nom_recette>
+			<nom_recette>r4315</nom_recette>
+			<nom_recette>r2101</nom_recette>
+			<nom_recette>r1611</nom_recette>
+			<nom_recette>r1915</nom_recette>
+			<nom_recette>r4385</nom_recette>
+			<nom_recette>r957</nom_recette>
+			<nom_recette>r2678</nom_recette>
+			<biographie>Auteur et photographe culinaire, Marie-Laure Tombini a cree en 2002 le site Ô Delices pour partager ses recettes et idees avec vous. Elle travaille en collaboration avec Vanessa Romano, Margot Debouzy depuis 2008. </biographie>
+		</auteur>
+		<auteur id="AUT2">
+			<idext>Vanessa</idext>
+			<prenom>Vanessa</prenom>
+			<pays>France</pays>
+			<sexe>Homme</sexe>
+			<nom_recette>r3136</nom_recette>
+			<biographie>NULL</biographie>
+		</auteur>
+		<auteur id="AUT3">
+			<idext>Nadège</idext>
+			<prenom>Nadege</prenom>
+			<pays>France</pays>
+			<sexe>Femme</sexe>
+			<nom_recette>r2830</nom_recette>
+			<biographie>NULL</biographie>
+		</auteur>
+		<auteur id="AUT4">
+			<idext>Karine Descamps</idext>
+			<nom>Descamps</nom>
+			<prenom>Karine</prenom>
+			<pays>France</pays>
+			<sexe>Femme</sexe>
+			<nom_recette>r1241</nom_recette>
+			<biographie>Auteur à succès, Karine Descamps a publie 2 superbes livres aux editions Mango : Craquez pour la cuisine des ch'tis ! et Craquez pour la noix de coco ! </biographie>
+		</auteur>
+		<auteur id="AUT5">
+			<idext>Clochette</idext>
+			<prenom>Clochette</prenom>
+			<pays>France</pays>
+			<sexe>Femme</sexe>
+			<nom_recette>r497</nom_recette>
+			<biographie>NULL</biographie>
+		</auteur>
+	</liste_auteurs>
+	<liste_categories>
+		<categorie id="C1">
+			<nom>Entrees</nom>
+			<nom-court>Entrees</nom-court>
+			<descriptif>Toutes nos recettes d'entrees : Cakes sales, Entrees chaudes, Entrees froides, Quiches et Tartes, Salades, Sandwichs, Soupes et veloutes, Terrines, Verrines salees.</descriptif>
+			<sous-categorie id="SC1">
+				<nom>Cakes</nom>
+				<nom-court>Cakes</nom-court>
+				<descriptif>   Categorie Cakes : Ôdelices vous propose ses meilleures recettes testees et photographiees</descriptif>
+				<nom_categorie>C1</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC2">
+				<nom>entrees-chaudes</nom>
+				<nom-court>entrees-chaudes</nom-court>
+				<descriptif>   Categorie Entrees chaudes : Ôdelices vous propose ses meilleures recettes testees et photographiees</descriptif>
+				<nom_categorie>C1</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC3">
+				<nom>Entrees-froides</nom>
+				<nom-court>Entrees-froides</nom-court>
+				<descriptif>   Categorie Entrees-froides : Ôdelices vous propose ses meilleures recettes testees et photographiees</descriptif>
+				<nom_categorie>C1</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC4">
+				<nom>Pizzas</nom>
+				<nom-court>Pizzas</nom-court>
+				<descriptif>     Categorie Pizzas : Ôdelices vous propose ses meilleures recettes testees et photographiees</descriptif>
+				<nom_categorie>C1</nom_categorie>
+			</sous-categorie>
+		</categorie>
+		<categorie id="C2">
+			<nom>Recettes classiques</nom>
+			<nom-court>Recettes</nom-court>
+			<descriptif>Des recettes classiques pour avoir tous les incontournables de la cuisine.</descriptif>
+		</categorie>
+		<categorie id="C3">
+			<nom>Boissons</nom>
+			<nom-court>Boisson</nom-court>
+			<descriptif>Surprenez vos convives avec notre selection de cocktails originaux. Sans oublier les milk-shakes, smoothies et jus de fruits à servir aux enfants ou aux plus grands selon l'heure de la journee. Des boissons chaudes type chocolat chaud pour l'hiver, des thes glaces pour vous rafraichir pendant l'ete. Et pour les amateurs, decouvrez nos vins et aperitifs maison.</descriptif>
+		</categorie>
+		<categorie id="C4">
+			<nom>aperitifs</nom>
+			<nom-court>apero</nom-court>
+			<descriptif>Pour changer des aperitifs où l'on sert des cacahuètes et des chips je vous propose de confectionner de delicieuses bouchees salees, des feuilletes, des tapas Certes cela prend un peu plus de temps et demande un peu d'organisation mais le resultat est incomparable et vos invites seront certainement conquis. Alors trouvez votre bonheur, et celui de vos hôtes, dans notre selection de recettes aperitives. Il y en a pour tous les goûts : recettes legères, rapides, exotiques, originales, traditionnelles
+	</descriptif>
+		</categorie>
+		<categorie id="C5">
+			<nom>viandes</nom>
+			<nom-court>viandes</nom-court>
+			<descriptif> Toutes nos recettes de viande 
+	</descriptif>
+			<sous-categorie id="SC5">
+				<nom>Agneau</nom>
+				<nom-court>Agneau</nom-court>
+				<descriptif>     Categorie Agneau : Ôdelices vous propose ses meilleures recettes testees et photographiees</descriptif>
+				<nom_categorie>C5</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC6">
+				<nom>Boeuf</nom>
+				<nom-court>Boeuf</nom-court>
+				<descriptif>     Categorie Boeuf : Ôdelices vous propose ses meilleures recettes testees et photographiees</descriptif>
+				<nom_categorie>C5</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC7">
+				<nom>Canard</nom>
+				<nom-court>Canard</nom-court>
+				<descriptif>     Categorie Canard : Ôdelices vous propose ses meilleures recettes testees et photographiees</descriptif>
+				<nom_categorie>C5</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC8">
+				<nom>Lapin</nom>
+				<nom-court>Lapin</nom-court>
+				<descriptif>     Categorie Lapin : Ôdelices vous propose ses meilleures recettes testees et photographiees</descriptif>
+				<nom_categorie>C5</nom_categorie>
+			</sous-categorie>
+		</categorie>
+		<categorie id="C6">
+			<nom>poissons et crustaces</nom>
+			<nom-court>poissons</nom-court>
+			<descriptif>  Toutes nos recettes de poissons </descriptif>
+			<sous-categorie id="SC9">
+				<nom>Rouget</nom>
+				<nom-court>Rouget</nom-court>
+				<descriptif>    	Peut-être adorez-vous les petits filets de rougets autant que moi ? Ce petit poisson a la peau rouge est toujours du plus bel effet sur une table. Decouvrez nos recettes !			</descriptif>
+				<nom_categorie>C6</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC10">
+				<nom>Cabillaud</nom>
+				<nom-court>Cabillaud</nom-court>
+				<descriptif>    Saviez-vous que le cabillaud et la morue ne font qu'un ou presque ? Le cabillaud devient de la morue une fois qu'il a ete sale et seche.Ce poisson vit dans les mers froides. Sa chair blanche, tendre et delicate ne supporte pas des temps de cuisson trop eleves. 
+	Comment aimez-vous le cabillaud ? Poche, en papillotes, au curry, en tajine, tartare, en flan, en terrine ou encore en croquettes ou gratin ? </descriptif>
+				<nom_categorie>C6</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC11">
+				<nom>Saumon</nom>
+				<nom-court>Saumon</nom-court>
+				<descriptif>    Le saumon a une vie mouvementee : il naît en eau douce, puis se rend instinctivement dans la mer avant de retourner pondre et souvent mourir dans le fleuve de sa naissance. La majorite des saumons qui est commercialisee, provient d'elevages intensifs et industrialises. Je ne saurais vous recommander que d'acheter du saumon bio ou labellise. Le saumon est un poisson prise et souvent apprecie par tous, petits et grands. Il existe de très nombreuses manières de le cuire et de l'accommoder. Vous en connaissez certainement mais êtes-vous prêts à tenter de nouvelles experiences culinaires ? Saumon burger, saumon marine, crumble de saumon, parmentier de saumon, tartare de saumon, maki, saumon laque, en gratin.</descriptif>
+				<nom_categorie>C6</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC12">
+				<nom>Crevettes</nom>
+				<nom-court>Crevettes</nom-court>
+				<descriptif>    La crevette a une excellente valeur nutritive. Source de proteines, peu grasse, elle est riche en mineraux et vitamines. Ce delicieux crustace est une très bonne source de phosphore. Vous trouverez des recettes très simples et d'autres plus elaborees, des recettes traditionnelles (flambees, en brochettes) et d'autres plus exotiques et depaysantes (maki, sushi, curry).Vous n'avez desormais plus d'excuses pour ne pas cuisiner des crevettes, des gambas ou des langoustines.</descriptif>
+				<nom_categorie>C6</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC16">
+				<nom>Coquillages</nom>
+				<descriptif>    Noix de Saint Jacques, moules, huitres, petoncles Sentez-vous l'air marin et iode entrer dans votre cuisine ? Beaucoup ne cuisinent pas les coquillages par meconnaissance et crainte de ne pas savoir s'y prendre. Lancez-vous, vous verrez que ce n'est guère complique et que le resultat est souvent bluffant.
+	</descriptif>
+				<nom_categorie>C6</nom_categorie>
+			</sous-categorie>
+		</categorie>
+		<categorie id="C7">
+			<nom>Sauces, beurres et condiments</nom>
+			<nom-court>sauces</nom-court>
+			<descriptif>  Toutes nos recettes de sauces  </descriptif>
+		</categorie>
+		<categorie id="C8">
+			<nom>Autres plats</nom>
+			<nom-court>autres</nom-court>
+			<descriptif>   Toutes nos recettes d'autres plats  </descriptif>
+		</categorie>
+		<categorie id="C9">
+			<nom>pains</nom>
+			<nom-court>pains</nom-court>
+			<descriptif>    Toutes nos recettes de pains  </descriptif>
+		</categorie>
+		<categorie id="C10">
+			<nom>Desserts</nom>
+			<nom-court>desserts</nom-court>
+			<descriptif>   Toutes nos recette de desserts : Biscuits, Cakes sucres, Cupcakes et Muffins, Confitures et Gelees, Crèmes, Flans et Entremets, Crêpes, Beignets, Gaufres, Crumbles et Clafoutis, Douceurs, Fruits, Gâteaux, Gâteaux de fête, Glaces et Sorbets, Macarons, Tartes sucrees, Verrines sucrees.  </descriptif>
+			<sous-categorie id="SC14">
+				<nom>Gateaux</nom>
+				<nom-court>Gateaux</nom-court>
+				<descriptif>    A la fin d'un repas, pour le goûter, pour un pique-nique, pour apporter à une fête, toutes les occasions sont bonnes pour confectionner un gâteau. Les pâtisseries "maison" sont tellement bonnes et inegalables. Du plus simple au plus sophistique, du plus traditionnel au plus original, de nos regions et d'ailleurs, du plus "hype" au plus discret, du plus chocolate au plus fruite, vous trouverez tout ou presque pour satisfaire vos envies de gâteaux.</descriptif>
+				<nom_categorie>C10</nom_categorie>
+			</sous-categorie>
+			<sous-categorie id="SC15">
+				<nom>Macarons</nom>
+				<nom-court>Macarons</nom-court>
+				<descriptif>    Nos recettes de macarons inratables : des parfums classiques au chocolat, vanille, pistache, caramel au beurre sale mais aussi des goûts plus originaux comme pamplemousse, violette, litchi rose. Aussi bons que ceux de Laduree ou de Pierre Herme !</descriptif>
+				<nom_categorie>C10</nom_categorie>
+			</sous-categorie>
+		</categorie>
+	</liste_categories>
+</root>
