@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 """
 Created on Thu March 2 2016
 
@@ -19,9 +21,9 @@ def affImage(filename):
 # de nom filename, apres l'avoir retaillee vers un canevas de cote npix.
 # Retourne donc un vecteur de taille npix*npix*3 (RGB par pixel)
 def imageToVecteurPixels(filename, npix):
-	im = Image.open(filename).resize((npix,npix))
-	return np.reshape(np.array(im), (1, npix*npix*3))
-	
+    im = Image.open(filename).resize((npix,npix))
+    return np.reshape(np.array(im), (1, npix*npix*3))
+    
 # Calcule le vecteur correspondant a l'histogramme de couleurs de 
 # l'image conte nue dans le fichier de nom filename. L'image est 
 # supposee en couleurs (RGB)
@@ -45,17 +47,17 @@ def chargementVecteursImages(rep1, rep2, t1, t2, sizex):
     i=0
     # parcours de tous les fichiers image du rep1 (classe t1)
     for nf in os.listdir(rep1)[1:]:
-		# conversion image -> vec de pixels rgb
+	# conversion image -> vec de pixels rgb
         data.append(imageToVecteurPixels(rep1+'/'+nf, sizex))
         target.append(t1)
         i=i+1
-    j=0
-    # parcours de tous les fichiers image du rep2 (classe t2)
+        j=0
+        # parcours de tous les fichiers image du rep2 (classe t2)
     for nf in os.listdir(rep2)[1:]:
         data.append(imageToVecteurPixels(rep2+'/'+nf, sizex))
         target.append(t2)
         j=j+1
-    n = i+j # nb d'exemples de l'echantillon
+        n = i+j # nb d'exemples de l'echantillon
     return n, data, target, sizex*sizex*3
 
 # Charge et renvoie les donnees images, sous format d'histogrammes
@@ -72,15 +74,15 @@ def chargementHistogrammesImages(rep1, rep2, t1, t2):
     target = []
     i=0
     for nf in os.listdir(rep1)[0:]:
-		data.append(imageToHistogrammeCouleurs(rep1+'/'+nf))
-		target.append(t1)
-		i=i+1
-    j=0
+        data.append(imageToHistogrammeCouleurs(rep1+'/'+nf))
+        target.append(t1)
+        i+=1
+        j=0
     for nf in os.listdir(rep2)[0:]:
         data.append(imageToHistogrammeCouleurs(rep2+'/'+nf))
         target.append(t2)
         j=j+1
-    n=j+i
+        n=j+i
     return n, data, target, data[0].shape[0]
 
 # Chargement de la representation vectorielle couleur des images tests
