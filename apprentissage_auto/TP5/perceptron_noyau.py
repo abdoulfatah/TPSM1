@@ -15,6 +15,7 @@ import tp5utils as utils
 import numpy as np
 import math
 
+#Fonctions utilitaires diverses
 def association(target,m):
     "Remplit et retourne un tableau de strings ou la case d'indice i contient le nom de la i-eme classe. Permet d'etablir une association entre des classes de nom quelconque et des int"
 
@@ -34,7 +35,14 @@ def association(target,m):
     if trouvees>m:
         raise Exception("Ceci n'est pas cense arriver... plus de classes trouvees que prevu")
     return asso
-
+    
+def center(data):
+    tmp = np.array([d[0] for d in data])
+    av = sum(tmp)/float(len(tmp))
+    tmp = [t-av for t in tmp]
+    for i in range(0,len(tmp)):
+        data[i] = (tmp[i],data[i][1])
+    
 #2.1) Calcul du noyau gaussien de 2 vecteurs
 def noyauGaussien(x1,x2,sigma):
     if x1.shape != x2.shape :
@@ -71,13 +79,13 @@ def learnKernelPerceptron(data,target,classes,kernel,h):
     n = data.shape[0]
     if len(data.shape)>1:
         n*=data.shape[1]
-    n//=700
-    
+    #n//=700
+    #n=10
     for c in range(0,n):
         for i in  range(0,data.shape[0]):
             pred = 0
             for j in range(0,data.shape[0]):
-                pred += alpha[j]*target[j]*kernel(data[i],data[j],h)
+                pred += alpha[j]*target[j]*kernel(dataExt[i],dataExt[j],h)
             if signe(pred) != classes.index(target[i]):
                 alpha[i] += 1
     return alpha
@@ -94,7 +102,6 @@ def predictSet(kp,kernel,h,data,target,classes,display):
     i=0
     for x in data:
         pred=predictKernelPerceptron(kp,x,kernel,h,data,target)
-        print(pred)
         if signe(pred) != classes.index(target[i]):
             err+=1
             if display:
@@ -109,14 +116,18 @@ def predictSet(kp,kernel,h,data,target,classes,display):
 classes = association(datas.bias,2)
 
 #3.3) Tester predictKernelPerceptron sur les données Iris
-train,test=train_test_split(datas.bias,test_size=0.3,random_state=random.seed())
+center(datas.bias)
+shortDatas = datas.bias[:100]
+
+train,test=train_test_split(shortDatas,test_size=0.3,random_state=random.seed())
 dataTrain = np.array([d[0] for d in train])
 targetTrain = np.array([d[1] for d in train])
 dataTest = np.array([d[0] for d in test])
 targetTest = np.array([d[1] for d in test])
 
 h=1
-kp = learnKernelPerceptron(dataTrain,targetTrain,classes,noyauGaussien,h)
+kp = learnKernelPerceptron(dataTrain,targetTrain,classes,noyauPolynomial,h)
 err = predictSet(kp,noyauGaussien,h,dataTest,targetTest,classes,False)
-print(err)
+print(kp)
 print(dataTest.shape)
+print(err)
